@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  <Login User="login" Password="heslo" />
+  
+  <Connections>
+    <Connection Host="ftp://opice::S" Local="C:FU" />
+    <Connection Host="ftp://ipcko/" Local="C:\Users\Petr\Documents\TESTFTP\TestSyncFolder" />
+  </Connections>
+
+  <LastTimeIndexing></LastTimeIndexing>
+  
+</Configuration>

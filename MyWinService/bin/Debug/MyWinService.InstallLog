@@ -1,0 +1,39 @@
+﻿Instalace sestavení C:\MyWinService\MyWinService\bin\Debug\MyWinService.exe
+Zasažené parametry:
+   logtoconsole = 
+   assemblypath = C:\MyWinService\MyWinService\bin\Debug\MyWinService.exe
+   logfile = C:\MyWinService\MyWinService\bin\Debug\MyWinService.InstallLog
+Instalace služby 01Service...
+Služba 01Service byla úspěšně nainstalována.
+Vytváření zdroje EventLog 01Service v protokolu Application...
+Potvrzování sestavení C:\MyWinService\MyWinService\bin\Debug\MyWinService.exe
+Zasažené parametry:
+   logtoconsole = 
+   assemblypath = C:\MyWinService\MyWinService\bin\Debug\MyWinService.exe
+   logfile = C:\MyWinService\MyWinService\bin\Debug\MyWinService.InstallLog
+Instalace sestavení C:\VS2013\MyWinService\MyWinService\bin\Debug\MyWinService.exe
+Zasažené parametry:
+   logtoconsole = 
+   assemblypath = C:\VS2013\MyWinService\MyWinService\bin\Debug\MyWinService.exe
+   logfile = C:\VS2013\MyWinService\MyWinService\bin\Debug\MyWinService.InstallLog
+Instalace služby 01Service...
+Vytváření zdroje EventLog 01Service v protokolu Application...
+Odvolání sestavení C:\VS2013\MyWinService\MyWinService\bin\Debug\MyWinService.exe
+Zasažené parametry:
+   logtoconsole = 
+   assemblypath = C:\VS2013\MyWinService\MyWinService\bin\Debug\MyWinService.exe
+   logfile = C:\VS2013\MyWinService\MyWinService\bin\Debug\MyWinService.InstallLog
+Obnova protokolu událostí na předchozí stav zdroje 01Service
+Instalace sestavení C:\VS2013\MyWinService\MyWinService\bin\Debug\MyWinService.exe
+Zasažené parametry:
+   logtoconsole = 
+   assemblypath = C:\VS2013\MyWinService\MyWinService\bin\Debug\MyWinService.exe
+   logfile = C:\VS2013\MyWinService\MyWinService\bin\Debug\MyWinService.InstallLog
+Instalace služby 01Service...
+Služba 01Service byla úspěšně nainstalována.
+Vytváření zdroje EventLog 01Service v protokolu Application...
+Potvrzování sestavení C:\VS2013\MyWinService\MyWinService\bin\Debug\MyWinService.exe
+Zasažené parametry:
+   logtoconsole = 
+   assemblypath = C:\VS2013\MyWinService\MyWinService\bin\Debug\MyWinService.exe
+   logfile = C:\VS2013\MyWinService\MyWinService\bin\Debug\MyWinService.InstallLog

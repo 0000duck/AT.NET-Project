@@ -1,0 +1,15 @@
+C:\Users\Petr\Desktop\FtpSyncSolution\FtpViewer\bin\config.xml
+C:\Users\Petr\Desktop\FtpSyncSolution\FtpViewer\bin\FtpViewer.dll.config
+C:\Users\Petr\Desktop\FtpSyncSolution\FtpViewer\bin\FtpViewer.dll
+C:\Users\Petr\Desktop\FtpSyncSolution\FtpViewer\bin\FtpViewer.pdb
+C:\Users\Petr\Desktop\FtpSyncSolution\FtpViewer\bin\FileSystemChecker.dll
+C:\Users\Petr\Desktop\FtpSyncSolution\FtpViewer\bin\FtpSyncService.exe
+C:\Users\Petr\Desktop\FtpSyncSolution\FtpViewer\bin\ConfigApp.exe
+C:\Users\Petr\Desktop\FtpSyncSolution\FtpViewer\bin\FileSystemChecker.pdb
+C:\Users\Petr\Desktop\FtpSyncSolution\FtpViewer\bin\FtpSyncService.pdb
+C:\Users\Petr\Desktop\FtpSyncSolution\FtpViewer\bin\ConfigApp.pdb
+C:\Users\Petr\Desktop\FtpSyncSolution\FtpViewer\bin\cs-CZ\ConfigApp.resources.dll
+C:\Users\Petr\Desktop\FtpSyncSolution\FtpViewer\bin\en\ConfigApp.resources.dll
+C:\Users\Petr\Desktop\FtpSyncSolution\FtpViewer\obj\Debug\FtpViewer.csprojResolveAssemblyReference.cache
+C:\Users\Petr\Desktop\FtpSyncSolution\FtpViewer\obj\Debug\FtpViewer.dll
+C:\Users\Petr\Desktop\FtpSyncSolution\FtpViewer\obj\Debug\FtpViewer.pdb

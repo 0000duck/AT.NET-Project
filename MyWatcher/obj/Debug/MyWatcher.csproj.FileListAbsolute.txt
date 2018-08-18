@@ -1,0 +1,10 @@
+C:\VS2013\MyWinService\MyWatcher\bin\Debug\XML\ServiceConfig.xml
+C:\VS2013\MyWinService\MyWatcher\bin\Debug\MyWatcher.dll
+C:\VS2013\MyWinService\MyWatcher\bin\Debug\MyWatcher.pdb
+C:\VS2013\MyWinService\MyWatcher\bin\Debug\ConfigForm.exe
+C:\VS2013\MyWinService\MyWatcher\bin\Debug\ConfigForm.pdb
+C:\VS2013\MyWinService\MyWatcher\obj\Debug\MyWatcher.csprojResolveAssemblyReference.cache
+C:\VS2013\MyWinService\MyWatcher\obj\Debug\MyWatcher.dll
+C:\VS2013\MyWinService\MyWatcher\obj\Debug\MyWatcher.pdb
+C:\VS2013\MyWinService\MyWatcher\bin\Debug\en\ConfigForm.resources.dll
+C:\VS2013\MyWinService\MyWatcher\bin\Debug\cs\ConfigForm.resources.dll

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Petr\Documents\TESTVIEWE</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ConfigApp.exe">
+      <publishTime>12/02/2015 00:03:19</publishTime>
+    </File>
+    <File Include="bin/cs-CZ/ConfigApp.resources.dll">
+      <publishTime>12/02/2015 00:03:19</publishTime>
+    </File>
+    <File Include="bin/en/ConfigApp.resources.dll">
+      <publishTime>12/02/2015 00:03:19</publishTime>
+    </File>
+    <File Include="bin/FileSystemChecker.dll">
+      <publishTime>12/02/2015 00:03:18</publishTime>
+    </File>
+    <File Include="bin/FtpSyncService.exe">
+      <publishTime>12/02/2015 00:03:19</publishTime>
+    </File>
+    <File Include="bin/FtpViewer.dll">
+      <publishTime>12/02/2015 00:03:20</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>12/02/2015 00:02:37</publishTime>
+    </File>
+    <File Include="MainPage.aspx">
+      <publishTime>12/01/2015 13:03:57</publishTime>
+    </File>
+    <File Include="style.css">
+      <publishTime>01/12/2015 11:50:08</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/02/2015 00:03:34</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

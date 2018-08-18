@@ -1,0 +1,15 @@
+C:\VS2013\MyWinService\WebClient\bin\XML\ServiceConfig.xml
+C:\VS2013\MyWinService\WebClient\bin\WebClient.dll.config
+C:\VS2013\MyWinService\WebClient\bin\WebClient.dll
+C:\VS2013\MyWinService\WebClient\bin\WebClient.pdb
+C:\VS2013\MyWinService\WebClient\bin\ConfigForm.exe
+C:\VS2013\MyWinService\WebClient\bin\MyWatcher.dll
+C:\VS2013\MyWinService\WebClient\bin\MyWinService.exe
+C:\VS2013\MyWinService\WebClient\bin\ConfigForm.pdb
+C:\VS2013\MyWinService\WebClient\bin\MyWatcher.pdb
+C:\VS2013\MyWinService\WebClient\bin\MyWinService.pdb
+C:\VS2013\MyWinService\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+C:\VS2013\MyWinService\WebClient\obj\Debug\WebClient.dll
+C:\VS2013\MyWinService\WebClient\obj\Debug\WebClient.pdb
+C:\VS2013\MyWinService\WebClient\bin\en\ConfigForm.resources.dll
+C:\VS2013\MyWinService\WebClient\bin\cs\ConfigForm.resources.dll

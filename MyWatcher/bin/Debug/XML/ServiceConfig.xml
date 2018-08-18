@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  
+  <Connections>
+    <Connection User="brs0010.aspone.cz" Password="pass" Host="ftp://brs0010.aspone.cz" LocalDir="C:\VS2013\FTPSyncTestFolder\" />
+  </Connections>
+  <IndexInterval>30000</IndexInterval>
+  <LastTimeIndexing>11.11.2015</LastTimeIndexing>
+  
+</Configuration>

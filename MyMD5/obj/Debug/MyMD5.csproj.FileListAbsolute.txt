@@ -1,0 +1,5 @@
+C:\VS2013\MyWinService\MyMD5\bin\Debug\MyMD5.dll
+C:\VS2013\MyWinService\MyMD5\bin\Debug\MyMD5.pdb
+C:\VS2013\MyWinService\MyMD5\obj\Debug\MyMD5.csprojResolveAssemblyReference.cache
+C:\VS2013\MyWinService\MyMD5\obj\Debug\MyMD5.dll
+C:\VS2013\MyWinService\MyMD5\obj\Debug\MyMD5.pdb

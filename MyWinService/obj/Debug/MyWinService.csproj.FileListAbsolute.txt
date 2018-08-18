@@ -1,0 +1,23 @@
+E:\OneDrive\Documents\Visual Studio 2013\Projects\MyWinService\MyWinService\bin\Debug\MyWinService.exe.config
+E:\OneDrive\Documents\Visual Studio 2013\Projects\MyWinService\MyWinService\bin\Debug\MyWinService.exe
+E:\OneDrive\Documents\Visual Studio 2013\Projects\MyWinService\MyWinService\bin\Debug\MyWinService.pdb
+E:\OneDrive\Documents\Visual Studio 2013\Projects\MyWinService\MyWinService\obj\Debug\MyWinService.csprojResolveAssemblyReference.cache
+E:\OneDrive\Documents\Visual Studio 2013\Projects\MyWinService\MyWinService\obj\Debug\MyWinService.ProjectInstaller.resources
+E:\OneDrive\Documents\Visual Studio 2013\Projects\MyWinService\MyWinService\obj\Debug\MyWinService.csproj.GenerateResource.Cache
+E:\OneDrive\Documents\Visual Studio 2013\Projects\MyWinService\MyWinService\obj\Debug\MyWinService.exe
+E:\OneDrive\Documents\Visual Studio 2013\Projects\MyWinService\MyWinService\obj\Debug\MyWinService.pdb
+C:\VS2013\MyWinService\MyWinService\bin\Debug\XML\ServiceConfig.xml
+C:\VS2013\MyWinService\MyWinService\bin\Debug\MyWinService.exe.config
+C:\VS2013\MyWinService\MyWinService\bin\Debug\MyWinService.exe
+C:\VS2013\MyWinService\MyWinService\bin\Debug\MyWinService.pdb
+C:\VS2013\MyWinService\MyWinService\bin\Debug\ConfigForm.exe
+C:\VS2013\MyWinService\MyWinService\bin\Debug\MyWatcher.dll
+C:\VS2013\MyWinService\MyWinService\bin\Debug\ConfigForm.pdb
+C:\VS2013\MyWinService\MyWinService\bin\Debug\MyWatcher.pdb
+C:\VS2013\MyWinService\MyWinService\obj\Debug\MyWinService.csprojResolveAssemblyReference.cache
+C:\VS2013\MyWinService\MyWinService\obj\Debug\MyWinService.ProjectInstaller.resources
+C:\VS2013\MyWinService\MyWinService\obj\Debug\MyWinService.csproj.GenerateResource.Cache
+C:\VS2013\MyWinService\MyWinService\obj\Debug\MyWinService.exe
+C:\VS2013\MyWinService\MyWinService\obj\Debug\MyWinService.pdb
+C:\VS2013\MyWinService\MyWinService\bin\Debug\en\ConfigForm.resources.dll
+C:\VS2013\MyWinService\MyWinService\bin\Debug\cs\ConfigForm.resources.dll
